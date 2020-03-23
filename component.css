@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    margin: 0
+}
+.top1{
+    align-items: center;
+    justify-content: center;
+}
+.top1 p{
+    text-align: center;
+}
+.handsontable{
+    margin-left:13%;
+    width:-webkit-fill-available
+}
+#hot-display-license-info{
+    display: none;
+    left:'center';
+    /* width:-webkit-fill-available */
+}
+#container{
+    width:-webkit-fill-available
+}
